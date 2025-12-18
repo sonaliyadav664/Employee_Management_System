@@ -1,1 +1,2 @@
 # Employee_Management_System
+Employee Management System (EMS) is a basic Java console application developed using JDBC and the DAO pattern. It allows users to perform CRUD operations such as adding, viewing, updating, and deleting employee records stored in a relational database. The project demonstrates core Java concepts, database connectivity, and a simple layered structure using DAO and service classes.
